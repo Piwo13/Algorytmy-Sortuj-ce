@@ -1,0 +1,6 @@
+C:\Users\Lenovo\source\repos\Algorytmy Sortujące\Algorytmy Sortujące\bin\Debug\Algorytmy Sortujące.exe.config
+C:\Users\Lenovo\source\repos\Algorytmy Sortujące\Algorytmy Sortujące\bin\Debug\Algorytmy Sortujące.exe
+C:\Users\Lenovo\source\repos\Algorytmy Sortujące\Algorytmy Sortujące\bin\Debug\Algorytmy Sortujące.pdb
+C:\Users\Lenovo\source\repos\Algorytmy Sortujące\Algorytmy Sortujące\obj\Debug\Algorytmy Sortujące.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Algorytmy Sortujące\Algorytmy Sortujące\obj\Debug\Algorytmy Sortujące.exe
+C:\Users\Lenovo\source\repos\Algorytmy Sortujące\Algorytmy Sortujące\obj\Debug\Algorytmy Sortujące.pdb
